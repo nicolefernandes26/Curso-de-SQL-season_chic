@@ -1,15 +1,33 @@
-# season_chic
-Proyecto de análisis de datos desarrollado en SQL.
+Season Chic 👗🛒
+    Análisis de datos de compra en sucursales de moda (2021-2023)
 
-El proyecto Season Chic se basa en un conjunto de datos ficticios recopilados entre 2021 y 2023, que analiza el comportamiento de compra en sucursales de moda en Estados Unidos. El objetivo es obtener una comprensión profunda de los patrones de consumo y optimizar diversos aspectos del negocio, como el manejo del inventario, la logística y las promociones.
+Descripción del Proyecto
+    Season Chic es un proyecto de análisis de datos desarrollado en Excel y MySQL Workbench. Se basa en un conjunto de datos ficticios recopilados entre 2021 y 2023, que analiza el comportamiento de compra en sucursales de moda en Estados Unidos.
 
-Los datos registran cada transacción realizada, proporcionando información detallada sobre los productos adquiridos, como el artículo específico, su talla, color y la estación del año a la que pertenece. También se incluyen datos sobre la cantidad de productos elegidos por los clientes y la calificación que estos otorgan a sus compras, lo que permite evaluar la satisfacción del cliente. Además, se considera el tipo de factura generada en cada transacción, distinguiendo entre ventas en tienda física o en línea, y se analizan los métodos de entrega utilizados, junto con los tiempos de envío asociados. Los datos recogen también el tipo de pago empleado por los consumidores, lo que facilita el análisis de sus preferencias a la hora de realizar transacciones.
+El objetivo principal es obtener una comprensión profunda de los patrones de consumo y optimizar aspectos clave del negocio, como:
+    Manejo de inventario.
+    Optimización de logística.
+    Promociones personalizadas.
 
-Otro aspecto relevante es la información sobre las devoluciones, que indica si una compra fue devuelta y, de ser así, los motivos detrás de esta decisión, ayudando a identificar posibles problemas con los productos. Los datos de las promociones aplicadas durante el período analizado incluyen información sobre si se otorgaron descuentos y el porcentaje de descuento aplicado, lo que permite medir la efectividad de las campañas promocionales y su impacto en las ventas.
+Tecnologías Utilizadas
+    MySQL Workbench – Modelado y gestión de bases de datos.
+    Excel – Análisis de datos y visualizaciones.
 
-Además de los datos de ventas, se dispone de información detallada sobre los clientes, como su nombre, edad, género y su frecuencia de compra en las sucursales. Este perfil del cliente ayuda a segmentar a los consumidores según sus características demográficas y comportamientos de compra, permitiendo a la tienda diseñar estrategias de marketing más personalizadas. También se recopilan datos sobre la cantidad total de compras realizadas por cada cliente durante el período analizado, lo que permite identificar a los clientes más frecuentes y valiosos para el negocio.
+Cómo Ejecutar el Proyecto
+    Clona el repositorio (descargar los archivos): git clone https://github.com/tuusuario/season-chic.git
+    Importa la base de datos en MySQL Workbench usando el scripts "MySQL_SeasonChic_Database.sql".
+    Carga los datos de ejemplo desde la carpeta "Tablas para cargar en MySQL Workbench".
+    Analiza y visualiza los reportes como se ve en los ejemplos del archivo "Trabajo Practico CoderHouse - Season Chic - Nicole Larissa Fernandes - Comisión 59420" a partir de la pagina 113.
 
-El proyecto también contempla los datos de los vendedores, lo que facilita el análisis del rendimiento de cada empleado en las distintas sucursales, así como la evaluación del desempeño de las tiendas físicas en diferentes ubicaciones geográficas. Estas sucursales se analizan en términos de su localización y la región en la que operan, lo que proporciona una visión integral del rendimiento de las ventas en distintas áreas del país.
-Por último, los datos incluyen información sobre los productos en sí y su clasificación en diversas categorías, como ropa, calzado o accesorios. Esta categorización permite analizar las tendencias de ventas en función del tipo de producto y su popularidad entre los clientes. También se recopilan datos de los proveedores, lo que facilita la evaluación de la cadena de suministro y la relación con los mismos, ayudando a optimizar los procesos de reposición de inventario y asegurar un flujo constante de productos disponibles para los clientes.
+Resultados Esperados
+    El proyecto proporciona insights valiosos sobre:
+        Temporadas de mayor demanda.
+        Productos con mejor y peor rendimiento.
+        Estrategias para reducir el exceso de inventario.
 
-En conjunto, este análisis detallado de las ventas, los clientes, los vendedores, las sucursales, los productos y los proveedores ofrece una herramienta valiosa para mejorar la toma de decisiones empresariales. El proyecto busca, en última instancia, optimizar la experiencia del cliente, mejorar la eficiencia operativa y maximizar las oportunidades de crecimiento en el competitivo mercado de la moda.
+Contribuciones
+    Si deseas contribuir con mejoras o sugerencias, ¡eres bienvenido/a! 🚀 Haz un fork del repositorio y abre un pull request.
+
+Contacto
+    Si tienes preguntas o comentarios, no dudes en escribirme:
+    ✉️ https://www.linkedin.com/in/nicolefernandes26/
