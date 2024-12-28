@@ -1,0 +1,51 @@
+store_ID,subsidiary,location,region
+STR_Ill,Total Look,Illinois,Midwest
+STR_Ind,Ellos y Ellas,Indiana,Midwest
+STR_Iow,Ell@s,Iowa,Midwest
+STR_Kan,Vas-IN,Kansas,Midwest
+STR_Mic,Guao Casual,Michigan,Midwest
+STR_Min,Estilos,Minnesota,Midwest
+STR_Mis,Mola Moda,Missouri,Midwest
+STR_Neb,Tag Moda,Nebraska,Midwest
+STR_Dak,Zelfie Boutique,North Dakota,Midwest
+STR_Ohi,# Moda,Ohio,Midwest
+STR_Sou,Alexa Boutique,South Dakota,Midwest
+STR_Wis,A-Avatar Look,Wisconsin,Midwest
+STR_Con,MOA,Connecticut,Northeast
+STR_Del,Share Moda,Delaware,Northeast
+STR_Mai,Nous,Maine,Northeast
+STR_Mar,Ecuación Unisex,Maryland,Northeast
+STR_Mas,Aldea global,Massachusetts,Northeast
+STR_Ham,Aldea Fashion,New Hampshire,Northeast
+STR_Jer,Akira,New Jersey,Northeast
+STR_Yor,Akira's Boutique,New York,Northeast
+STR_Pen,Dual Tendencias,Pennsylvania,Northeast
+STR_Rho,ADN Fashion,Rhode Island,Northeast
+STR_Ver,Villa Global,Vermont,Northeast
+STR_Ala,Replicantes,Alabama,Southeast
+STR_Ark,Andros Moda,Arkansas,Southeast
+STR_Flo,Moda 2.0,Florida,Southeast
+STR_Geo,Ardhanari,Georgia,Southeast
+STR_Ken,Tiresias,Kentucky,Southeast
+STR_Lou,Beta moda,Louisiana,Southeast
+STR_Sip,Kultura Fashion,Mississippi,Southeast
+STR_Nor,Nanos,North Carolina,Southeast
+STR_Lin,Millenials Gurus,South Carolina,Southeast
+STR_Ten,Gurus Thendy,Tennessee,Southeast
+STR_Vir,Neo Modas,Virginia,Southeast
+STR_Wes,Estacion Moda,West Virginia,Southeast
+STR_Ari,Quantium Room,Arizona,Southwest
+STR_Mex,Otr@s,New Mexico,Southwest
+STR_Okl,Ambigu@s,Oklahoma,Southwest
+STR_Tex,La Percha,Texas,Southwest
+STR_Ska,Nuestra moda,Alaska,West
+STR_Cal,Animus,California,West
+STR_Col,Otr@s Tenedencias,Colorado,West
+STR_Haw,U2-Tendecias,Hawaii,West
+STR_Ida,Alterna 2,Idaho,West
+STR_Mon,Mism@ Moda,Montana,West
+STR_Nev,Mism@ Tendencia,Nevada,West
+STR_Ore,Tribu Thendy,Oregon,West
+STR_Uta,Clave Thendy,Utah,West
+STR_Was,Ironic@,Washington,West
+STR_Wyo,Gente irónica,Wyoming,West

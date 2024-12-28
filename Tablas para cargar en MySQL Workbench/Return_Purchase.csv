@@ -1,0 +1,355 @@
+return_ID,purchased_ID,SKU,reason,return_date
+RTN_1111,980,ACC_005,Item does not fit,2023-12-02
+RTN_1112,1380,CLT_011,Item does not fit,2022-07-25
+RTN_1113,3887,ACC_006,Customer changed their mind,2021-06-21
+RTN_1114,531,OTW_001,Wrong item delivered,2023-05-16
+RTN_1115,563,CLT_004,Item arrived damaged or broken,2021-09-11
+RTN_1116,3021,CLT_004,Wrong item delivered,2021-07-12
+RTN_1117,3531,ACC_008,Order arrived too late,2023-10-24
+RTN_1118,432,ACC_005,Customer changed their mind,2021-12-21
+RTN_1119,1124,ACC_005,Order arrived too late,2023-03-18
+RTN_1120,2411,FTW_003,Item does not fit,2022-12-12
+RTN_1121,1267,CLT_001,Item arrived damaged or broken,2023-05-20
+RTN_1122,550,ACC_001,Item arrived damaged or broken,2023-08-17
+RTN_1123,3457,CLT_003,Item does not match the description,2021-03-07
+RTN_1124,1008,ACC_003,Order arrived too late,2023-11-26
+RTN_1125,680,FTW_002,Item does not fit,2021-07-27
+RTN_1126,1638,CLT_002,Item does not match the description,2022-05-22
+RTN_1127,2984,CLT_005,Item arrived damaged or broken,2023-09-17
+RTN_1128,2458,ACC_004,Order arrived too late,2021-07-26
+RTN_1129,921,ACC_002,Wrong item delivered,2023-06-03
+RTN_1130,1957,CLT_009,Customer changed their mind,2023-09-29
+RTN_1131,1516,CLT_004,Order arrived too late,2022-08-13
+RTN_1132,1025,CLT_011,Customer changed their mind,2022-01-20
+RTN_1133,1573,CLT_008,Item arrived damaged or broken,2021-08-29
+RTN_1134,858,CLT_007,Item does not match the description,2023-07-15
+RTN_1135,2210,FTW_002,Wrong item delivered,2023-10-02
+RTN_1136,3814,CLT_005,Item does not fit,2022-03-14
+RTN_1137,2435,ACC_003,Customer changed their mind,2022-02-23
+RTN_1138,2799,CLT_003,Order arrived too late,2022-01-06
+RTN_1139,650,CLT_005,Item does not fit,2021-08-18
+RTN_1140,701,CLT_005,Item arrived damaged or broken,2021-05-16
+RTN_1141,2032,CLT_009,Item arrived damaged or broken,2022-05-28
+RTN_1142,3604,CLT_004,Item does not fit,2023-09-19
+RTN_1143,1505,OTW_002,Item does not match the description,2023-05-14
+RTN_1144,1825,CLT_005,Item arrived damaged or broken,2022-03-16
+RTN_1145,1324,CLT_007,Item does not fit,2023-07-12
+RTN_1146,809,FTW_003,Item does not match the description,2023-05-28
+RTN_1147,1993,CLT_003,Item does not match the description,2021-06-20
+RTN_1148,2030,ACC_007,Wrong item delivered,2022-10-29
+RTN_1149,907,CLT_005,Order arrived too late,2022-03-19
+RTN_1150,818,ACC_004,Order arrived too late,2022-07-11
+RTN_1151,2545,CLT_005,Customer changed their mind,2024-01-06
+RTN_1152,3089,CLT_002,Order arrived too late,2022-05-20
+RTN_1153,3426,ACC_005,Wrong item delivered,2021-11-26
+RTN_1154,253,CLT_007,Order arrived too late,2023-01-28
+RTN_1155,2464,CLT_001,Order arrived too late,2021-06-28
+RTN_1156,2377,ACC_003,Item does not fit,2022-10-10
+RTN_1157,314,CLT_002,Wrong item delivered,2022-03-09
+RTN_1158,1180,CLT_011,Order arrived too late,2022-01-15
+RTN_1159,218,ACC_008,Wrong item delivered,2023-11-15
+RTN_1160,2594,CLT_005,Item does not match the description,2021-03-31
+RTN_1161,1215,OTW_002,Item does not fit,2022-05-31
+RTN_1162,2890,ACC_008,Order arrived too late,2023-01-10
+RTN_1163,2467,CLT_007,Customer changed their mind,2021-08-13
+RTN_1164,2888,FTW_002,Item arrived damaged or broken,2021-07-03
+RTN_1165,515,CLT_008,Item arrived damaged or broken,2022-05-13
+RTN_1166,2289,ACC_006,Customer changed their mind,2023-03-18
+RTN_1167,3669,CLT_001,Order arrived too late,2023-11-05
+RTN_1168,2871,ACC_006,Customer changed their mind,2021-11-09
+RTN_1169,104,FTW_001,Item does not match the description,2023-11-03
+RTN_1170,3011,ACC_002,Item does not match the description,2023-03-08
+RTN_1171,798,OTW_001,Wrong item delivered,2023-01-29
+RTN_1172,2839,OTW_002,Item does not match the description,2022-08-19
+RTN_1173,1916,ACC_001,Customer changed their mind,2022-03-16
+RTN_1174,1126,FTW_002,Item arrived damaged or broken,2021-06-03
+RTN_1175,351,CLT_010,Order arrived too late,2021-07-07
+RTN_1176,3195,FTW_004,Customer changed their mind,2021-06-29
+RTN_1177,496,ACC_004,Order arrived too late,2022-07-01
+RTN_1178,3544,ACC_005,Item does not fit,2022-02-08
+RTN_1179,747,FTW_002,Item arrived damaged or broken,2022-11-16
+RTN_1180,83,CLT_005,Wrong item delivered,2023-07-17
+RTN_1181,391,ACC_003,Item does not match the description,2021-09-13
+RTN_1182,814,ACC_004,Item does not fit,2021-02-20
+RTN_1183,2593,CLT_007,Item does not match the description,2023-02-14
+RTN_1184,977,CLT_011,Order arrived too late,2022-02-10
+RTN_1185,2187,FTW_002,Item arrived damaged or broken,2021-06-20
+RTN_1186,1047,FTW_004,Order arrived too late,2022-03-28
+RTN_1187,1601,FTW_001,Item does not match the description,2023-06-24
+RTN_1188,3176,CLT_009,Order arrived too late,2021-09-07
+RTN_1189,2070,CLT_011,Item does not fit,2023-05-16
+RTN_1190,2947,CLT_005,Order arrived too late,2023-05-17
+RTN_1191,1263,FTW_001,Item does not fit,2021-09-03
+RTN_1192,1628,ACC_008,Order arrived too late,2021-11-21
+RTN_1193,1232,CLT_009,Wrong item delivered,2022-07-24
+RTN_1194,1433,ACC_005,Customer changed their mind,2022-08-30
+RTN_1195,1501,CLT_004,Item does not match the description,2024-01-07
+RTN_1196,3203,ACC_007,Wrong item delivered,2023-02-15
+RTN_1197,2841,CLT_011,Order arrived too late,2022-08-04
+RTN_1198,2954,CLT_002,Order arrived too late,2021-11-16
+RTN_1199,3073,ACC_006,Wrong item delivered,2022-07-26
+RTN_1200,2976,ACC_007,Item does not match the description,2023-09-01
+RTN_1201,1026,CLT_006,Item arrived damaged or broken,2023-07-21
+RTN_1202,576,CLT_004,Wrong item delivered,2023-04-29
+RTN_1203,3407,CLT_010,Item arrived damaged or broken,2022-12-05
+RTN_1204,2525,OTW_001,Wrong item delivered,2022-02-01
+RTN_1205,3556,CLT_001,Customer changed their mind,2021-09-07
+RTN_1206,3102,ACC_006,Customer changed their mind,2021-03-17
+RTN_1207,1455,FTW_004,Order arrived too late,2023-04-03
+RTN_1208,3191,CLT_004,Customer changed their mind,2021-07-27
+RTN_1209,1860,ACC_002,Wrong item delivered,2022-11-21
+RTN_1210,1424,FTW_002,Item arrived damaged or broken,2022-02-03
+RTN_1211,1354,CLT_005,Item arrived damaged or broken,2023-02-01
+RTN_1212,3630,CLT_011,Order arrived too late,2022-06-12
+RTN_1213,339,CLT_003,Item does not match the description,2021-11-17
+RTN_1214,185,FTW_004,Item does not match the description,2022-09-28
+RTN_1215,1006,ACC_001,Item does not match the description,2023-02-26
+RTN_1216,222,ACC_005,Order arrived too late,2021-07-31
+RTN_1217,465,ACC_008,Item does not match the description,2021-06-08
+RTN_1218,3695,CLT_010,Customer changed their mind,2021-01-19
+RTN_1219,3134,CLT_011,Item does not fit,2021-01-29
+RTN_1220,2636,CLT_003,Wrong item delivered,2022-05-20
+RTN_1221,3437,ACC_002,Wrong item delivered,2023-02-06
+RTN_1222,3425,ACC_007,Item does not fit,2023-03-17
+RTN_1223,1983,ACC_008,Wrong item delivered,2022-03-16
+RTN_1224,2461,CLT_004,Item does not fit,2022-08-15
+RTN_1225,841,CLT_006,Item arrived damaged or broken,2023-04-30
+RTN_1226,732,OTW_001,Wrong item delivered,2022-08-15
+RTN_1227,2215,ACC_002,Order arrived too late,2023-12-19
+RTN_1228,1811,CLT_004,Customer changed their mind,2021-04-01
+RTN_1229,2571,FTW_004,Customer changed their mind,2022-11-26
+RTN_1230,35,CLT_011,Item does not fit,2023-02-14
+RTN_1231,490,CLT_009,Customer changed their mind,2021-04-13
+RTN_1232,1105,ACC_005,Item arrived damaged or broken,2021-02-04
+RTN_1233,3540,ACC_006,Item does not match the description,2023-09-24
+RTN_1234,3462,FTW_003,Item does not fit,2023-04-16
+RTN_1235,3785,CLT_009,Customer changed their mind,2021-09-14
+RTN_1236,1781,ACC_006,Item does not fit,2021-07-20
+RTN_1237,460,ACC_005,Customer changed their mind,2021-04-25
+RTN_1238,2327,CLT_008,Wrong item delivered,2021-03-01
+RTN_1239,2501,ACC_003,Order arrived too late,2022-05-09
+RTN_1240,3851,ACC_006,Wrong item delivered,2022-10-06
+RTN_1241,41,ACC_004,Order arrived too late,2022-03-11
+RTN_1242,3164,CLT_005,Item does not match the description,2021-03-23
+RTN_1243,188,FTW_003,Wrong item delivered,2024-01-09
+RTN_1244,1453,OTW_002,Order arrived too late,2021-10-04
+RTN_1245,3237,ACC_002,Item does not fit,2021-06-01
+RTN_1246,1708,CLT_007,Item does not match the description,2023-03-20
+RTN_1247,95,CLT_008,Order arrived too late,2022-01-03
+RTN_1248,466,CLT_008,Customer changed their mind,2021-06-10
+RTN_1249,3760,FTW_004,Item does not fit,2023-12-07
+RTN_1250,254,FTW_001,Item does not match the description,2022-05-07
+RTN_1251,2595,CLT_008,Item does not match the description,2023-06-19
+RTN_1252,3373,CLT_009,Item does not fit,2022-04-06
+RTN_1253,1684,OTW_001,Wrong item delivered,2021-02-14
+RTN_1254,1909,ACC_007,Customer changed their mind,2021-11-29
+RTN_1255,3606,CLT_004,Item does not match the description,2022-03-23
+RTN_1256,813,FTW_001,Item does not fit,2023-04-15
+RTN_1257,1954,CLT_008,Item does not fit,2021-04-26
+RTN_1258,1033,FTW_001,Wrong item delivered,2022-09-06
+RTN_1259,2707,FTW_003,Order arrived too late,2021-11-09
+RTN_1260,3793,ACC_007,Wrong item delivered,2021-05-02
+RTN_1261,1642,CLT_003,Item does not match the description,2022-07-16
+RTN_1262,938,CLT_007,Item does not match the description,2023-07-15
+RTN_1263,2014,ACC_001,Item arrived damaged or broken,2022-12-23
+RTN_1264,2220,CLT_001,Order arrived too late,2022-09-05
+RTN_1265,2427,OTW_002,Customer changed their mind,2021-01-20
+RTN_1266,2363,CLT_004,Item arrived damaged or broken,2023-03-29
+RTN_1267,599,CLT_002,Order arrived too late,2023-01-05
+RTN_1268,2227,CLT_006,Wrong item delivered,2022-03-23
+RTN_1269,3892,CLT_002,Customer changed their mind,2023-09-17
+RTN_1270,1746,CLT_008,Customer changed their mind,2022-08-14
+RTN_1271,1822,CLT_007,Customer changed their mind,2021-02-21
+RTN_1272,1427,CLT_005,Item does not fit,2023-04-01
+RTN_1273,2749,OTW_002,Customer changed their mind,2022-02-25
+RTN_1274,767,ACC_003,Customer changed their mind,2022-01-28
+RTN_1275,1755,CLT_002,Customer changed their mind,2021-01-22
+RTN_1276,3897,ACC_001,Item does not fit,2023-06-25
+RTN_1277,3044,ACC_002,Item arrived damaged or broken,2022-09-02
+RTN_1278,2447,CLT_006,Order arrived too late,2021-04-11
+RTN_1279,3115,ACC_004,Item does not match the description,2022-01-08
+RTN_1280,3547,ACC_007,Item arrived damaged or broken,2023-09-15
+RTN_1281,172,CLT_007,Item arrived damaged or broken,2021-06-01
+RTN_1282,1064,CLT_003,Order arrived too late,2022-04-17
+RTN_1283,437,CLT_005,Item arrived damaged or broken,2021-02-23
+RTN_1284,1132,CLT_006,Item arrived damaged or broken,2023-01-30
+RTN_1285,3868,OTW_002,Item does not match the description,2021-05-13
+RTN_1286,799,CLT_009,Item does not match the description,2022-12-16
+RTN_1287,2569,CLT_011,Wrong item delivered,2023-09-24
+RTN_1288,928,FTW_004,Item does not match the description,2023-07-15
+RTN_1289,3896,CLT_003,Order arrived too late,2022-11-26
+RTN_1290,583,OTW_002,Item does not fit,2021-04-22
+RTN_1291,2607,FTW_003,Customer changed their mind,2022-05-16
+RTN_1292,175,FTW_003,Item does not fit,2022-05-20
+RTN_1293,3592,OTW_002,Item does not fit,2022-04-25
+RTN_1294,3125,ACC_006,Wrong item delivered,2023-11-03
+RTN_1295,1073,CLT_007,Order arrived too late,2023-08-11
+RTN_1296,1097,OTW_001,Item does not match the description,2021-11-12
+RTN_1297,1724,ACC_007,Item does not fit,2021-01-26
+RTN_1298,125,CLT_010,Item does not fit,2023-04-08
+RTN_1299,2175,ACC_001,Customer changed their mind,2023-01-26
+RTN_1300,1166,CLT_011,Item does not match the description,2021-08-01
+RTN_1301,3108,CLT_001,Item does not match the description,2023-07-17
+RTN_1302,1583,ACC_002,Item does not match the description,2022-07-06
+RTN_1303,2384,ACC_001,Order arrived too late,2022-11-14
+RTN_1304,627,ACC_008,Customer changed their mind,2022-07-13
+RTN_1305,3856,CLT_006,Item does not match the description,2021-10-02
+RTN_1306,165,ACC_004,Item does not match the description,2021-10-30
+RTN_1307,202,CLT_001,Customer changed their mind,2023-07-15
+RTN_1308,1179,CLT_002,Customer changed their mind,2022-10-31
+RTN_1309,119,CLT_010,Item arrived damaged or broken,2021-02-20
+RTN_1310,1605,CLT_010,Item does not fit,2022-04-19
+RTN_1311,1913,CLT_010,Customer changed their mind,2022-08-08
+RTN_1312,1658,CLT_008,Item arrived damaged or broken,2022-01-12
+RTN_1313,2680,CLT_007,Item does not match the description,2023-09-22
+RTN_1314,299,CLT_011,Item does not match the description,2023-07-06
+RTN_1315,2972,ACC_004,Item arrived damaged or broken,2021-03-14
+RTN_1316,2819,CLT_007,Order arrived too late,2021-04-21
+RTN_1317,2725,FTW_004,Customer changed their mind,2023-02-11
+RTN_1318,2968,FTW_004,Wrong item delivered,2022-08-15
+RTN_1319,828,FTW_003,Item does not match the description,2023-05-08
+RTN_1320,1062,OTW_001,Item arrived damaged or broken,2021-07-18
+RTN_1321,3504,CLT_006,Item arrived damaged or broken,2021-07-12
+RTN_1322,1404,ACC_001,Item does not fit,2023-09-20
+RTN_1323,3276,CLT_005,Item arrived damaged or broken,2023-08-03
+RTN_1324,3379,CLT_007,Item does not fit,2022-10-31
+RTN_1325,410,CLT_007,Item does not match the description,2023-12-17
+RTN_1326,2677,ACC_001,Item does not fit,2023-02-02
+RTN_1327,3617,CLT_003,Item does not fit,2021-06-23
+RTN_1328,233,ACC_006,Customer changed their mind,2023-03-02
+RTN_1329,1217,CLT_005,Item arrived damaged or broken,2022-05-16
+RTN_1330,3141,ACC_003,Item does not match the description,2022-05-13
+RTN_1331,2561,FTW_001,Wrong item delivered,2021-04-30
+RTN_1332,357,CLT_005,Item does not match the description,2022-07-16
+RTN_1333,38,CLT_004,Item does not match the description,2023-12-11
+RTN_1334,3046,CLT_009,Item does not fit,2023-01-19
+RTN_1335,1136,CLT_008,Order arrived too late,2021-05-20
+RTN_1336,2544,ACC_007,Wrong item delivered,2022-08-27
+RTN_1337,362,CLT_011,Wrong item delivered,2021-04-13
+RTN_1338,2136,ACC_008,Customer changed their mind,2022-05-03
+RTN_1339,837,ACC_003,Wrong item delivered,2021-02-22
+RTN_1340,667,CLT_003,Customer changed their mind,2023-03-18
+RTN_1341,1783,CLT_005,Item does not fit,2022-06-28
+RTN_1342,1543,CLT_001,Item does not match the description,2021-11-29
+RTN_1343,654,ACC_007,Order arrived too late,2021-02-17
+RTN_1344,1592,CLT_008,Customer changed their mind,2023-02-25
+RTN_1345,3515,FTW_004,Wrong item delivered,2023-02-03
+RTN_1346,1012,ACC_001,Customer changed their mind,2022-07-27
+RTN_1347,874,FTW_001,Order arrived too late,2023-12-03
+RTN_1348,2600,ACC_006,Order arrived too late,2022-01-28
+RTN_1349,329,OTW_001,Item arrived damaged or broken,2023-11-04
+RTN_1350,2309,ACC_008,Item does not match the description,2023-03-17
+RTN_1351,1558,ACC_001,Item does not fit,2023-03-03
+RTN_1352,3341,CLT_011,Customer changed their mind,2023-08-10
+RTN_1353,472,ACC_007,Item does not fit,2023-09-21
+RTN_1354,449,ACC_003,Order arrived too late,2022-03-07
+RTN_1355,1187,CLT_004,Item arrived damaged or broken,2023-12-04
+RTN_1356,3835,CLT_003,Item does not fit,2022-09-06
+RTN_1357,3275,CLT_010,Customer changed their mind,2023-10-23
+RTN_1358,569,CLT_005,Customer changed their mind,2022-09-29
+RTN_1359,3575,CLT_009,Wrong item delivered,2022-09-15
+RTN_1360,1423,CLT_002,Item does not match the description,2023-04-05
+RTN_1361,3402,ACC_001,Item arrived damaged or broken,2022-07-09
+RTN_1362,2019,ACC_001,Item does not match the description,2021-07-10
+RTN_1363,1479,ACC_003,Item does not match the description,2021-02-11
+RTN_1364,142,ACC_003,Order arrived too late,2021-08-01
+RTN_1365,1955,ACC_003,Item does not match the description,2022-04-16
+RTN_1366,1312,FTW_003,Item arrived damaged or broken,2021-02-05
+RTN_1367,2744,ACC_002,Item does not match the description,2022-11-19
+RTN_1368,1349,ACC_002,Wrong item delivered,2023-11-03
+RTN_1369,2524,ACC_004,Order arrived too late,2023-02-18
+RTN_1370,3691,CLT_001,Order arrived too late,2023-08-07
+RTN_1371,1584,ACC_007,Item does not match the description,2022-01-10
+RTN_1372,2739,FTW_004,Customer changed their mind,2023-12-16
+RTN_1373,1747,ACC_004,Item arrived damaged or broken,2022-11-12
+RTN_1374,1984,ACC_007,Customer changed their mind,2023-03-18
+RTN_1375,1521,ACC_005,Item arrived damaged or broken,2022-06-26
+RTN_1376,3159,ACC_006,Item arrived damaged or broken,2021-06-29
+RTN_1377,2520,OTW_002,Customer changed their mind,2021-06-23
+RTN_1378,2131,ACC_001,Wrong item delivered,2023-11-03
+RTN_1379,3266,ACC_008,Wrong item delivered,2023-04-28
+RTN_1380,1877,CLT_008,Item does not fit,2022-05-31
+RTN_1381,1536,FTW_002,Item does not match the description,2021-10-29
+RTN_1382,285,CLT_008,Customer changed their mind,2024-01-06
+RTN_1383,1917,CLT_003,Order arrived too late,2021-02-09
+RTN_1384,1201,OTW_001,Customer changed their mind,2021-03-02
+RTN_1385,575,FTW_004,Item does not fit,2022-06-01
+RTN_1386,197,FTW_001,Order arrived too late,2022-07-24
+RTN_1387,1772,CLT_006,Customer changed their mind,2021-03-22
+RTN_1388,182,CLT_005,Item does not match the description,2023-07-14
+RTN_1389,159,CLT_006,Item does not match the description,2023-09-12
+RTN_1390,1867,CLT_011,Item arrived damaged or broken,2021-06-21
+RTN_1391,2199,ACC_007,Item does not fit,2022-05-24
+RTN_1392,2213,CLT_005,Order arrived too late,2021-03-28
+RTN_1393,1930,CLT_004,Item does not match the description,2023-02-06
+RTN_1394,33,OTW_002,Wrong item delivered,2021-07-10
+RTN_1395,1842,CLT_009,Item does not match the description,2023-09-30
+RTN_1396,2370,CLT_010,Customer changed their mind,2023-04-14
+RTN_1397,3340,ACC_003,Order arrived too late,2021-12-10
+RTN_1398,2879,CLT_002,Item does not fit,2021-07-06
+RTN_1399,3093,ACC_008,Item does not match the description,2022-01-03
+RTN_1400,1467,CLT_007,Item arrived damaged or broken,2022-03-21
+RTN_1401,2073,ACC_001,Customer changed their mind,2023-10-03
+RTN_1402,443,ACC_008,Wrong item delivered,2023-03-13
+RTN_1403,230,FTW_002,Item does not match the description,2021-07-23
+RTN_1404,1017,ACC_002,Item does not match the description,2022-10-18
+RTN_1405,1698,CLT_006,Item arrived damaged or broken,2022-01-20
+RTN_1406,2988,CLT_008,Order arrived too late,2021-08-11
+RTN_1407,3083,CLT_011,Item does not match the description,2021-11-12
+RTN_1408,1977,ACC_004,Customer changed their mind,2022-01-06
+RTN_1409,2200,ACC_007,Item does not fit,2021-06-25
+RTN_1410,2055,CLT_010,Item does not match the description,2022-06-01
+RTN_1411,2577,CLT_003,Order arrived too late,2024-01-08
+RTN_1412,2939,ACC_008,Wrong item delivered,2023-06-11
+RTN_1413,590,CLT_006,Customer changed their mind,2023-08-18
+RTN_1414,317,ACC_004,Customer changed their mind,2023-02-06
+RTN_1415,2388,ACC_005,Wrong item delivered,2021-12-13
+RTN_1416,2893,CLT_002,Order arrived too late,2022-01-22
+RTN_1417,743,CLT_005,Order arrived too late,2023-06-25
+RTN_1418,3024,ACC_001,Item arrived damaged or broken,2022-09-18
+RTN_1419,3053,FTW_003,Item does not fit,2022-10-20
+RTN_1420,1335,OTW_001,Wrong item delivered,2023-03-18
+RTN_1421,207,CLT_011,Wrong item delivered,2023-01-23
+RTN_1422,1635,OTW_001,Item arrived damaged or broken,2024-01-10
+RTN_1423,1067,OTW_001,Item does not fit,2021-08-27
+RTN_1424,1134,FTW_003,Order arrived too late,2023-06-21
+RTN_1425,2224,FTW_002,Wrong item delivered,2023-05-17
+RTN_1426,3543,OTW_001,Order arrived too late,2023-02-25
+RTN_1427,453,CLT_005,Item does not fit,2023-07-13
+RTN_1428,2579,ACC_008,Order arrived too late,2021-06-19
+RTN_1429,848,CLT_003,Item arrived damaged or broken,2023-06-13
+RTN_1430,997,FTW_002,Item does not fit,2022-11-13
+RTN_1431,1070,CLT_008,Item arrived damaged or broken,2022-02-17
+RTN_1432,624,FTW_003,Item does not fit,2023-03-26
+RTN_1433,3790,CLT_006,Wrong item delivered,2023-10-28
+RTN_1434,1643,OTW_001,Item does not match the description,2023-08-14
+RTN_1435,611,CLT_007,Wrong item delivered,2021-07-07
+RTN_1436,316,ACC_006,Customer changed their mind,2022-03-07
+RTN_1437,50,CLT_003,Order arrived too late,2022-06-20
+RTN_1438,2980,CLT_004,Item arrived damaged or broken,2021-12-03
+RTN_1439,3550,CLT_011,Item does not match the description,2021-01-26
+RTN_1440,1038,ACC_006,Item does not fit,2022-05-17
+RTN_1441,2640,CLT_001,Customer changed their mind,2023-11-15
+RTN_1442,3204,OTW_001,Item does not match the description,2022-07-11
+RTN_1443,2774,CLT_005,Item does not match the description,2023-08-02
+RTN_1444,3589,ACC_008,Customer changed their mind,2021-12-27
+RTN_1445,3816,ACC_005,Item arrived damaged or broken,2022-06-24
+RTN_1446,2313,CLT_011,Item does not fit,2022-11-20
+RTN_1447,1500,FTW_001,Customer changed their mind,2021-08-03
+RTN_1448,1373,CLT_001,Item does not fit,2023-11-12
+RTN_1449,2252,FTW_003,Wrong item delivered,2023-06-01
+RTN_1450,2735,CLT_004,Item does not fit,2021-12-16
+RTN_1451,3641,ACC_008,Item does not match the description,2021-11-26
+RTN_1452,1391,ACC_005,Item does not match the description,2021-05-08
+RTN_1453,1096,OTW_001,Item does not match the description,2021-12-03
+RTN_1454,3025,CLT_001,Order arrived too late,2023-01-22
+RTN_1455,3874,FTW_002,Item does not fit,2021-02-09
+RTN_1456,2,CLT_010,Order arrived too late,2021-12-16
+RTN_1457,166,ACC_004,Order arrived too late,2021-10-22
+RTN_1458,1689,ACC_004,Customer changed their mind,2021-11-03
+RTN_1459,3071,FTW_003,Item arrived damaged or broken,2022-03-07
+RTN_1460,2660,FTW_001,Order arrived too late,2022-01-01
+RTN_1461,3714,FTW_003,Customer changed their mind,2023-05-12
+RTN_1462,2775,FTW_001,Item does not fit,2021-01-31
+RTN_1463,3516,CLT_002,Order arrived too late,2021-12-21
+RTN_1464,1170,ACC_001,Item does not match the description,2021-11-29
