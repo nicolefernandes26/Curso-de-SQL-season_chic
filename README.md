@@ -40,4 +40,4 @@ Contacto:
     ✉️ https://www.linkedin.com/in/nicolefernandes26/
 
 
-CoderHouse - SQL - Comisión 59420
+Coderhouse - SQL - Comisión 59420
